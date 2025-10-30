@@ -1,6 +1,6 @@
-# gemini-proxy
+# gemini-api-proxy
 
-通过cloudflare的woker免费搭建gemini的proxy,你需要准备
+通过cloudflare的woker免费搭建gemini api的proxy,你需要准备
 
 - cloudflare账号
 - 拥有一个自己的域名
